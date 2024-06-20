@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @huyenca
+- 👋 Hi, I’m Huyen Truong
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning MIS at HUST
+- 🌱 I’m currently work as a Data Analyst MIS
 
 
